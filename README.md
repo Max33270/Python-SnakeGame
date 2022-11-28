@@ -6,4 +6,8 @@
 
 - Enter ``python3 .\snake.py`` in the Terminal
 
-- Have Fun :) 
+- Use keyboard arrows to move around
+
+- Press the ``r`` key to play again 
+
+- Have fun :)
